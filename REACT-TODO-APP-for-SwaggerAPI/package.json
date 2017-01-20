@@ -1,0 +1,29 @@
+{
+  "name": "react-todo",
+  "version": "1.0.0",
+  "description": "React App for - Node.js Codeless  API Creation: Up And Running With Swagger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luke Angel - BTREEPRESS.com - BTREE.co - LUKENAGEL.co",
+
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.2",
+    "firebase": "^3.5.3",
+    "history": "^1.13.1",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-router": "^1.0.1",
+    "reactfire": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.13",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "webpack": "^1.13.3"
+  }
+}
